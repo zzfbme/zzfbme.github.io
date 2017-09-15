@@ -1,0 +1,87 @@
+/* Iklan banner mirip adsense by CaraGratis.NET */<br />
+.ads-box {<br />
+    background:#fff;<br />
+    width:100%;<br />
+	max-width:728px;<br />
+	max-height:90px;<br />
+    height: 100%;<br />
+    margin:0 auto;<br />
+    padding:0;<br />
+    text-align:center;<br />
+    position:relative;<br />
+    border:1px solid #ddd<br />
+  }<br />
+  .ads1<br />
+  {<br />
+    font:22px Roboto;<br />
+    color:#365DF6;<br />
+    padding:10px 10px 2px;<br />
+    text-align:left;<br />
+    line-height:1.3em;<br />
+    max-height:3.7em;<br />
+  }<br />
+  .ads-desc<br />
+  {<br />
+    font:14px Roboto;<br />
+    color:#808080;<br />
+    padding:1px 10px 10px 10px;<br />
+    text-align:left;<br />
+    line-height:1.3em;<br />
+    height:auto;<br />
+  }<br />
+  .ads1:hover<br />
+  {<br />
+    text-decoration:underline<br />
+  }<br />
+  .ads2<br />
+  {<br />
+    font:12px Arial;<br />
+    color:#317107;<br />
+    padding:0px 0px 0px 10px;<br />
+    text-align:left;<br />
+    display:block<br />
+  }<br />
+  .ads2:hover<br />
+  {<br />
+    text-decoration:underline<br />
+  }<br />
+  .ads4<br />
+  {<br />
+    float:right;<br />
+    background:#365DF6;<br />
+    padding:18px 40px 12px;<br />
+    border-radius:4px;<br />
+    text-align:center;<br />
+    margin: -20px 350px 0px 0px;<br />
+    display:block;<br />
+    position:relative<br />
+  }<br />
+  .ads4:hover<br />
+  {<br />
+    background:#5C7BF8;<br />
+    text-decoration:none<br />
+  }<br />
+  .ads-box .ad<br />
+  {<br />
+    position:absolute;<br />
+    top: -16px;<br />
+    line-height:1em;<br />
+    right:-7;<br />
+    padding:5px;<br />
+    background:transparent;<br />
+    font-size:10px;<br />
+    border-radius:0px 0 0;<br />
+    border-top:solid 0px #ddd;<br />
+    border-left:solid 0px #ddd<br />
+  }</p>
+<p>  .ads-box .ad a<br />
+  {<br />
+    color:#666<br />
+	transition:width 0s;-webkit-transition:width 0s;-moz-transition:width 0s;-ms-transition:width 0s;-o-transition:width 0s;color:#000;display:inline-block;font-size:normal;height:14px;overflow:hidden;padding:0px 0px;width:15px;vertical-align:none;text-shadow:0px 0px 0px #000<br />
+  }<br />
+  .ads-box .ad a:hover{<br />
+  width:70px<br />
+  }<br />
+  .ads-box .ad a:hover span {opacity:1}<br />
+  .ads-box .ad a span {transition:opacity 0s;-webkit-transition:opacity 0s;-moz-transition:opacity 0s;-ms-transition:opacity 0s;-o-transition:opacity 0s;display:inline-block;overflow:hidden;opacity:0;text-align:left;width:90px}<br />
+  .ads-box .ad a {background:#FFFFFF url(http://caragratis.net/file/img/adchoice-icon.png) no-repeat right center}
